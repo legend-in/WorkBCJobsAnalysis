@@ -1,0 +1,38 @@
+{
+ "name": "flare",
+ "children": [
+  {
+   "name": "A",
+   "children": [
+    {
+     "name": "a",
+     "children": [
+      {"name": "aa", "value": 1},
+      {"name": "ab", "value": 2}
+     ]
+    },
+    {
+     "name": "b",
+     "children": [
+      {"name": "ba", "value": 2},
+      {"name": "bb", "value": 2},
+      {"name": "bc", "value": 2}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "B",
+   "children": [
+    {
+     "name": "a",
+     "children": [
+      {"name": "aa", "value": 1},
+      {"name": "ab", "value": 2},
+      {"name": "ac", "value": 6}
+     ]
+    }
+   ]
+  }
+ ]
+}
